@@ -1,0 +1,28 @@
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\obj\Debug\select.csprojResolveAssemblyReference.cache
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\obj\Debug\select.MainForm.resources
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\obj\Debug\select.csproj.GenerateResource.Cache
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\bin\Debug\select.exe
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\bin\Debug\select.pdb
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\obj\Debug\select.exe
+C:\Users\fungchu\Documents\SharpDevelop Projects\select\select\obj\Debug\select.pdb
+E:\換座位\select\select\bin\Debug\select.exe
+E:\換座位\select\select\bin\Debug\select.pdb
+E:\換座位\select\select\obj\Debug\select.csprojResolveAssemblyReference.cache
+E:\換座位\select\select\obj\Debug\select.MainForm.resources
+E:\換座位\select\select\obj\Debug\select.csproj.GenerateResource.Cache
+E:\換座位\select\select\obj\Debug\select.exe
+E:\換座位\select\select\obj\Debug\select.pdb
+E:\換座位\select - LI\select\obj\Debug\select.csprojResolveAssemblyReference.cache
+E:\換座位\select - LI\select\obj\Debug\select.MainForm.resources
+E:\換座位\select - LI\select\obj\Debug\select.csproj.GenerateResource.Cache
+E:\換座位\select - LI\select\obj\Debug\select.exe
+E:\換座位\select - LI\select\bin\Debug\select.exe
+E:\換座位\select - LI\select\bin\Debug\select.pdb
+E:\換座位\select - LI\select\obj\Debug\select.pdb
+E:\換座位\select -1.02\select\obj\Debug\select.csprojResolveAssemblyReference.cache
+E:\換座位\select -1.02\select\obj\Debug\select.MainForm.resources
+E:\換座位\select -1.02\select\obj\Debug\select.csproj.GenerateResource.Cache
+E:\換座位\select -1.02\select\obj\Debug\select.exe
+E:\換座位\select -1.02\select\bin\Debug\select.exe
+E:\換座位\select -1.02\select\bin\Debug\select.pdb
+E:\換座位\select -1.02\select\obj\Debug\select.pdb
